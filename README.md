@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ranjit Yadav 👋
 
-<!--
-**ranjity8969-design/ranjity8969-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** at Dr. Sudhir Chandra Sur Institute of Technology  
+💻 **Learning & Practicing:** C, C++ & Python  
+🚀 **Goal:** Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills:
+- **Languages:** C, C++, Python  
+- **Focus:** Data Structures & Algorithms (DSA), Web Development  
+
+---
+
+### 📬 Connect with me:
+- **LinkedIn:** [Ranjit Yadav](https://www.linkedin.com/in/ranjit-yadav-2a8b783b3)
+
+---
+
+⭐️ *Working on building new C, C++ and Python projects!*
